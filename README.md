@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luca Ferrari</h1>
 <h3 align="center">I’m interested in CS</h3>
 
-- 🔭 I’m currently working on e-commerce with Flask [flask-commerce](https://github.com/luca959/e-commerce)
-
 - 📫 How to reach me **luca.ferrari.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
