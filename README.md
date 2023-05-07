@@ -2,7 +2,7 @@
 <h3 align="center">I’m interested in CS</h3>
 
 - 📫 How to reach me **luca.ferrari.pro@gmail.com**
-- my personal web site :https://luca959.github.io/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
