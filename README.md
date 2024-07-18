@@ -8,6 +8,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/luca-ferrari-2310a8201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luca-ferrari-2310a8201/" height="30" width="40" /></a>
 </p>
-
-
-![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=luca959&theme=dark&show_icons=true)
