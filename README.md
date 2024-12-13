@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca Ferrari</h1>
 <h3 align="center">I’m interested in CS</h3>
 
-- 📫 How to reach me **luca.ferrari.pro@gmail.com**
+- 📫 How to reach me **luca.ferrari@ai-lab.it**
 
 
 <h3 align="left">Connect with me:</h3>
